@@ -7,6 +7,7 @@ body{
 
 /* nav related styles */
 nav{
+    display: flex;
 
 }
 .nav-title{
